@@ -46,4 +46,4 @@
 - <a href="https://github.com/Devsthink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="devsthink" height="30" width="40" /> Devsthink </a>
 - <a href="https://twitter.com/josuegarza42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josuegarza42" height="30" width="40" /> josuegarza42 </a>
  
- ![GitHub Views](https://komarev.com/ghpvc/?username=josuegarza42&color=9046cf)
+ ![GitHub Views](https://komarev.com/ghpvc/?username=Alex99-bit&color=9046cf)
