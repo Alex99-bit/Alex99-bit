@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤠, I'm Alejandro Coronado</h1>
 
-### 😵 I’m currently learning: C#, Unity, Java Script, Phyton.
+### 😵 I’m currently learning: Unreal Engine, Unity, Node.js, Phyton, Next.js.
 
 ### 👀 I’m interested in: Web Development, Game Development and App Dev.
 
