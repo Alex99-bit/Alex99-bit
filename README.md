@@ -29,7 +29,7 @@
 - <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a> Jira & Trello <br>
 - <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="j-query" width="40" height="40"/> </a> JQuery <br>
 - <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a> Markdown <br>
-- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="markdown" width="40" height="40"/> </a> Markdown <br>
+- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="markdown" width="40" height="40"/> </a> Processing <br>
 
  
 ## &#x1f4c8; My GitHub Stats
