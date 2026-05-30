@@ -85,8 +85,4 @@ Next.js, Node.js, Python, Unity, Unreal Engine.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alejandro Obregon LinkedIn" height="30" width="40" />
     <code>Alejandro Obregón</code>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Devsthink" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Devsthink GitHub" height="30" width="40" />
-    <code>Devsthink</code>
-  </a>
 </p>
