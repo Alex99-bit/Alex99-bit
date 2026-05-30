@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤠, I'm Alejandro Coronado</h1>
 <p align="center">
-  <strong>Solutions Architect | Senior Software Developer</strong>
+  <strong>Solutions Architect | Senior Fullstack Developer | ERP Specialist</strong>
 </p>
 
 <p align="center">
@@ -8,37 +8,39 @@
 </p>
 
 ### 🚀 Sobre mí
-Soy un desarrollador senior enfocado en el diseño de arquitecturas escalables, desarrollo de ecosistemas SaaS, plataformas ERP y soluciones inmersivas. Combino la visión estratégica técnica con la ejecución sólida de código para construir productos tecnológicos de alto impacto.
+Soy un desarrollador Senior Fullstack y Solutions Architect enfocado en el diseño de sistemas escalables, plataformas SaaS y la optimización y soporte de aplicaciones ERP. Cuento con una sólida experiencia resolviendo problemas complejos en la lógica de negocio, integración de módulos y gestión de flujos de datos empresariales, combinando esto con el desarrollo de entornos interactivos.
 
-### 👀 Intereses principales
-* **Web Development:** Arquitecturas robustas, aplicaciones de alta disponibilidad y sistemas Cloud.
-* **Game Development & XR:** Creación de entornos interactivos y experiencias virtuales multiplataforma.
+### 👀 Áreas de Especialización
+* **Fullstack Web Ecosystem:** Construcción de aplicaciones robustas de punta a punta, APIs eficientes y arquitecturas Cloud.
+* **Soporte & Optimización ERP:** Mantenimiento, debugging, optimización de consultas y estabilidad de sistemas ERP críticos.
+* **Game Development & XR:** Creación de mecánicas interactivas y entornos virtuales interactivos.
 
 ### 😵 Actualmente perfeccionando / Aprendiendo:
 Next.js, Node.js, Python, Unity, Unreal Engine.
 
 ---
 
-### ✨ Stack Técnico & Competencies
+### ✨ Stack Técnico & Competencias
 
-#### 🏗️ Architecture & Backend
+#### 🏗️ Backend, Databases & ERP Core
 <p align="left">
-  < alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />&nbsp;
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />&nbsp;
   <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />&nbsp;
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />&nbsp;
   <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />&nbsp;
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />&nbsp;
-  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />&nbsp;
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
 </p>
 
-#### 🌐 Frontend & Web Ecosystem
+#### 🌐 Frontend & Web Development
 <p align="left">
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />&nbsp;
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />&nbsp;
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />&nbsp;
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />&nbsp;
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />&nbsp;
+  <img alt="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" />
 </p>
 
 #### 🎮 Game Development & Real-Time Engines
@@ -48,7 +50,7 @@ Next.js, Node.js, Python, Unity, Unreal Engine.
   <img alt="Processing" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="40" height="40" />
 </p>
 
-#### 🛠️ Tools & Management (DevOps / UX / Agility)
+#### 🛠️ Management, DevOps & Tools
 <p align="left">
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />&nbsp;
   <img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" />&nbsp;
@@ -79,8 +81,12 @@ Next.js, Node.js, Python, Unity, Unreal Engine.
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://github.com/Devsthink" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Devsthink" height="30" width="40" /> 
+  <a href="https://www.linkedin.com/in/alejandro-obregon" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alejandro Obregon LinkedIn" height="30" width="40" />
+    <code>Alejandro Obregón</code>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Devsthink" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Devsthink GitHub" height="30" width="40" />
     <code>Devsthink</code>
   </a>
 </p>
