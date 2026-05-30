@@ -15,8 +15,8 @@ Soy un desarrollador Senior Fullstack y Solutions Architect enfocado en el dise�
 * **Soporte & Optimización ERP:** Mantenimiento, debugging, optimización de consultas y estabilidad de sistemas ERP críticos.
 * **Game Development & XR:** Creación de mecánicas interactivas y entornos virtuales interactivos.
 
-### 😵 Actualmente perfeccionando / Aprendiendo:
-Next.js, Node.js, Python, Unity, Unreal Engine.
+### 😵 Actualmente perfeccionando:
+Next.js, Node.js, Python, Unity, Unreal Engine, ASP.NET
 
 ---
 
